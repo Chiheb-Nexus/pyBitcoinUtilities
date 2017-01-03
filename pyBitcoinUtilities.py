@@ -1,5 +1,5 @@
 #
-# pyBitcoinUtilites: Generate random, or from an input private key, Bitcoin public and private keys with QrCodes.
+# pyBitcoinUtilities: Generate random, or from an input private key, Bitcoin public and private keys with QrCodes.
 #					
 # Author: Chiheb Nexus - 2017
 # Credits:
