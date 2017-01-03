@@ -27,5 +27,5 @@ python3 pyBitcoinUtilities.py
 
 #Screenshot
 
-![Screenshot](https://github.com/Chiheb-Nexus/pyBitcoinUtilites/ui/screenshot.png  "pyBitcoinUtilities")
+![Screenshot](https://raw.githubusercontent.com/Chiheb-Nexus/pyBitcoinUtilites/master/ui/screenshot.png  "pyBitcoinUtilities")
 
