@@ -1,4 +1,5 @@
 #pyBitcoinUtilities
+[![Build Status](https://drone.io/github.com/Chiheb-Nexus/pyBitcoinUtilites/status.png)](https://drone.io/github.com/Chiheb-Nexus/pyBitcoinUtilites/latest)
 
 Generate random, or from an input private key, Bitcoin public and private keys with QrCodes.
 
